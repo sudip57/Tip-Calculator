@@ -24,7 +24,7 @@ Users should be able to:
 - Manipulate the DOM in Javascript.
 - Use the functions or arrow functions in Javascript.
 
-### Screenshots
+### Screenshot
 
 ![tipcalc](https://user-images.githubusercontent.com/79646606/177042588-74a88660-aa94-43f7-9f77-536bb926c3ad.png)
 
